@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/byteBank/byteBank.iml" filepath="$PROJECT_DIR$/byteBank/byteBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-pilha/java-pilha.iml" filepath="$PROJECT_DIR$/java-pilha/java-pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetosAlura.iml" filepath="$PROJECT_DIR$/projetosAlura.iml" />
+    </modules>
+  </component>
+</project>
